@@ -1,6 +1,6 @@
-# Detecting Cyberbullying in Tweets
+# Detecting Offensive Language in Tweets
 
-This project aims to detect cyberbullying in tweets using ML Classification Algorithms. A training and predicting pipeline is implemented
+This project aims to detect offensive language in tweets using ML Classification Algorithms. A training and predicting pipeline is implemented
 to contrast performance of various popular classification algorithms and determine the best suited model. 
 
 ## Data
